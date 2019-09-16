@@ -4,10 +4,10 @@
 
 # 必要なもの
 
-BESTEK製MAPi、ネットワーク、IPアドレス
+BESTEK製MAPi、ネットワーク、IPアドレス、Python
 
 # 感想
 
-中国、すげえ。
+この価格で、この機能・・・！！
 
 ![RES](result.png)
